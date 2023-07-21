@@ -7,7 +7,7 @@
 - `React`: The powerful JavaScript library used to build the project: 
 - - `useState` The React hook used to manage state.
 - `nanoid`: The library used for generating unique IDs, enhancing data handling and management within the project.
-- `react-toastify`: The library to provide `toast notifications` for alerts during list interactions.
+- `react-toastify`: The library that provides `toast notifications` for alerts during list interactions.
 
 ### Explore The Website
 [SmartShopper on Netlify](https://smart-shopper.netlify.app/)
